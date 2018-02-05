@@ -53,7 +53,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'friendly_id', '~> 5.2', '>= 5.2.3'
 gem 'devise', '~> 4.4', '>= 4.4.1'
 gem 'bootstrap', '~> 4.0.0'
-gem 'jquery-rails'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 
 gem 'haslem_view_tool', git: 'https://github.com/Shen548/haslem_view_tool'
 gem 'petergate', '~> 1.8', '>= 1.8.1'
