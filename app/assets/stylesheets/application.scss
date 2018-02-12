@@ -102,6 +102,9 @@ body {
   .nav-masthead {
     float: right;
   }
+  .cover-container{
+    width: 65rem;
+  }
 }
 
 
@@ -206,4 +209,17 @@ body {
 
 .app-footer {
   color: white;
+}
+
+.tech-news {
+  color: black;
+  margin: 20px;
+}
+
+.tech-news a {
+  color: green;
+}
+
+.tech-news > .card {
+  padding: 30px;
 }
