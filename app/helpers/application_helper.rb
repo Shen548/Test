@@ -17,7 +17,7 @@ module ApplicationHelper
   end
 
   def copyright_generator
-    HaslemViewTool::Renderer.copyright 'Shaun Haslem', 'All rights reserved'
+    HaslemViewTool::Renderer.copyright 'Shaun J Haslem', 'All rights reserved'
   end
 
   def nav_items

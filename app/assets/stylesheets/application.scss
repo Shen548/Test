@@ -248,8 +248,15 @@ h6, .h6 {
 }
 
 .app-card-container a {
-  color: blue;
+  color: #a9456e;
+  text-decoration: underline;
 }
+
+.app-card-container a:hover {
+  color: #b2aafb;
+  text-decoration: underline;
+}
+
 .card-block {
   margin-top: 5px;
   margin-bottom: 5px;
@@ -257,4 +264,5 @@ h6, .h6 {
 .skill {
   margin-top: 10px;
   margin-bottom: 10px;
+
 }
